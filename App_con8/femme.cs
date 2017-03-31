@@ -15,6 +15,7 @@ namespace ConsoleApplication1
         }
 
         public int Le6emeSens;
+        //OK
        
        
     }
