@@ -16,6 +16,7 @@ namespace App_con8
             String s = Console.ReadLine();
             Console.WriteLine(s);
             s = Console.ReadLine();
+            //Ici Thomas
         }
     }
 }
