@@ -12,10 +12,14 @@ namespace App_con8
         {
 
             Console.WriteLine("coucou");
+            // Commentaire de Charlie ! :-)
             Console.WriteLine("Hello ");
             String s = Console.ReadLine();
-            Console.WriteLine(s);//c'est mon deuxième test fjj ghh
+            //From jyTel !!!!!
+            Console.WriteLine(s);
+            // ajout MAUQUIE
             s = Console.ReadLine();
+            //Ici Thomas
         }
     }
 }
