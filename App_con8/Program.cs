@@ -15,6 +15,7 @@ namespace App_con8
             Console.WriteLine("Hello ");
             String s = Console.ReadLine();
             Console.WriteLine(s);
+            // ajout MAUQUIE
             s = Console.ReadLine();
         }
     }
