@@ -15,8 +15,11 @@ namespace App_con8
             // Commentaire de Charlie ! :-)
             Console.WriteLine("Hello ");
             String s = Console.ReadLine();
+            //From jyTel !!!!!
             Console.WriteLine(s);
+            // ajout MAUQUIE
             s = Console.ReadLine();
+            //Ici Thomas
         }
     }
 }
