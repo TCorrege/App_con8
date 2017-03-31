@@ -14,7 +14,7 @@ namespace App_con8
             Console.WriteLine("coucou");
             Console.WriteLine("Hello ");
             String s = Console.ReadLine();
-            Console.WriteLine(s);
+            Console.WriteLine(s);//c'est mon deuxième test fjj
             s = Console.ReadLine();
         }
     }
