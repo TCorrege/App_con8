@@ -12,6 +12,7 @@ namespace App_con8
         {
 
             Console.WriteLine("coucou");
+            // Commentaire de Charlie ! :-)
             Console.WriteLine("Hello ");
             String s = Console.ReadLine();
             Console.WriteLine(s);
